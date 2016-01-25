@@ -12,11 +12,11 @@ I blanked. I could feel my face heating up and I sat rigid in my chair just wait
 I was grateful for Prof. Downing in that although I was not able to answer the question, I was not humiliated. He simply explained the answer. It was OK that I didn't know, better luck next time. This encounter is a prime example of one of the challenges I'm going to be facing in this class: social anxiety. In previous classes, I avoided being called on by the professor because I was not prepared and did not want to be embarrassed in front of the class for a mistake. In order to overcome this, I will definitely be doing the readings more, reviewing things we learned in 429/439, maybe even 314, and to start projects earlier. Last week, we were introduced to Python, some simple concepts, and our first project during Friday's lecture. I wonder what new things I'll learn in the next week?
 
 TIP OF THE WEEK!
+
 For this week, check out https://atom.io/!
+
 Atom is a text editor I discovered last semester at a hackathon. I still love Sublime, but this one's not so bad either. I haven't had much experience with it, but if you give it a chance, let me know how you like it.
 
 See you next week!
 
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
