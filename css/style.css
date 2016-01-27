@@ -549,7 +549,7 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 25%;
 		}
 
 			.image.avatar:before {
